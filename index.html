@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Basic HTML</title>
+    <style>
+      nav {
+        background-color: #f2f2f2;
+        padding: 10px;
+      }
+
+      nav ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+      }
+
+      nav ul li {
+        display: inline;
+        margin-right: 10px;
+      }
+
+      input[type="number"],
+      input[type="text"],
+      input[type="password"] {
+        padding: 5px;
+      }
+
+      button {
+        padding: 5px 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+      </ul>
+    </nav>
+
+    <div>
+      <form action="/login" method="post">
+        <input type="text" name="user_id" placeholder="User ID" required />
+        <input
+          type="password"
+          name="password"
+          placeholder="Password"
+          required
+        />
+        <button type="submit">Login</button>
+      </form>
+    </div>
+  </body>
+</html>

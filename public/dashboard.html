@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Dashboard</title>
+    <style>
+      nav {
+        background-color: #f2f2f2;
+        padding: 10px;
+      }
+
+      nav ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+      }
+
+      nav ul li {
+        display: inline;
+        margin-right: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <nav>
+      <ul>
+        <li><a href="/logout">LogOut</a></li>
+      </ul>
+    </nav>
+
+    <h1>Welcome to the Dashboard!</h1>
+    <div>
+      <form action="/add_amount" method="post">
+        <input type="number" name="amount" placeholder="Enter amount" />
+        <button type="submit">Add Amount</button>
+      </form>
+      <form action="/user_transactions" method="get">
+        <br /><br /><br /><br />
+        <button type="submit">Get My Transactions</button>
+      </form>
+    </div>
+  </body>
+</html>

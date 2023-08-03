@@ -1,0 +1,118 @@
+[
+  {
+    "solo": [
+      {
+        "index": 0,
+        "added_amount": 246,
+        "current_amount": 8873,
+        "date": "2023-07-31T13:50:08.920Z"
+      },
+      {
+        "index": 1,
+        "added_amount": 2466,
+        "current_amount": 2712,
+        "date": "2023-07-31T13:50:11.880Z"
+      },
+      {
+        "index": 0,
+        "added_amount": 246,
+        "current_amount": 2958,
+        "date": "2023-07-31T13:51:32.618Z"
+      },
+      {
+        "index": 0,
+        "added_amount": 246,
+        "current_amount": 3204,
+        "date": "2023-07-31T13:51:32.626Z"
+      },
+      {
+        "index": 0,
+        "added_amount": 2468,
+        "current_amount": 5672,
+        "date": "2023-07-31T13:52:05.737Z"
+      },
+      {
+        "index": 0,
+        "added_amount": 246,
+        "current_amount": 5918,
+        "date": "2023-07-31T14:08:31.015Z"
+      },
+      {
+        "index": 0,
+        "added_amount": 2,
+        "current_amount": 5920,
+        "date": "2023-07-31T16:46:45.413Z"
+      },
+      {
+        "index": 0,
+        "added_amount": 468,
+        "current_amount": 6388,
+        "date": "2023-07-31T16:51:00.128Z"
+      },
+      {
+        "index": 0,
+        "added_amount": 18,
+        "current_amount": 6406,
+        "date": "2023-07-31T16:56:42.087Z"
+      },
+      {
+        "index": 0,
+        "added_amount": 18,
+        "current_amount": 6424,
+        "date": "2023-07-31T16:57:30.640Z"
+      },
+      {
+        "index": 0,
+        "added_amount": 2468,
+        "current_amount": 8892,
+        "date": "2023-08-02T04:57:04.782Z"
+      },
+      {
+        "index": 0,
+        "added_amount": 8,
+        "current_amount": 8900,
+        "date": "2023-08-02T07:27:54.633Z"
+      },
+      {
+        "index": 0,
+        "added_amount": 10,
+        "current_amount": 8910,
+        "date": "2023-08-02T07:58:45.995Z"
+      }
+    ]
+  },
+  {
+    "solo1": [
+      {
+        "index": 0,
+        "added_amount": 6,
+        "current_amount": 6,
+        "date": "2023-07-31T17:28:19.798Z"
+      },
+      {
+        "index": 0,
+        "added_amount": 123,
+        "current_amount": 129,
+        "date": "2023-07-31T17:37:19.798Z"
+      },
+      {
+        "index": 0,
+        "added_amount": 60,
+        "current_amount": 189,
+        "date": "2023-08-03T04:04:09.789Z"
+      },
+      {
+        "index": 0,
+        "added_amount": 2,
+        "current_amount": 191,
+        "date": "2023-08-03T04:05:01.382Z"
+      },
+      {
+        "index": 0,
+        "added_amount": 200,
+        "current_amount": 391,
+        "date": "2023-08-03T04:11:57.841Z"
+      }
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "user_ids": 1,
+    "user_id": "solo",
+    "password": "$2b$10$WK.kCDvLyd4D/M85Vs3bAe34elPTeck1vt6XdHDDE66UBIyocTJxq",
+    "amount": 8910
+  },
+  {
+    "user_ids": 2,
+    "user_id": "solo1",
+    "password": "$2b$10$sUH4wyPnpAyXKu/OXbLgiuvQ1p/Kt18LjcGlSAoiwclP0NBVAucj6",
+    "amount": 391
+  }
+]
